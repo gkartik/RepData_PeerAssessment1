@@ -185,6 +185,6 @@ We see that there are some interesting differences in the activity-patterns of w
 
   1. The peak activity during weekday is higher than it is for weekend (early during the day). This might point to the fact that this peak corresponds to the activity around people's getting to work in the morning.
   
-  2. After peak activity, the weekday activities die down while they do not for the case of weekend. This could mean that the subjects (a) hold a desk job that requires little activity during the day (sedentary lifestyle), and (b) during weekends, during the day, they do involve themselves with physical activity.
+  2. After peak activity, the weekday activities die down while they do not for the case of weekend. This could mean that the subjects (a) hold a desk job that requires little activity during the day (sedentary lifestyle), and (b) on weekends, during the day, they do involve themselves with more physical activity.
   
 While not all correlation can be ascribed a causation, the observations point to some interesting hypotheses that could be proved or disproved.  
